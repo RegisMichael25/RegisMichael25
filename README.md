@@ -4,7 +4,7 @@ Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas.
 
 CDL ⬇️
 
- [![Faculdade CDL](https://uniateneu.edu.br/wp-content/uploads/2020/07/cropped-logo-uniateneu-e1595263713954-150x150.png)](https://faculdadecdl.edu.br/wp-content/uploads/2022/11/logo.png)](https://uniateneu.edu.br/)
+ [![Faculdade CDL](https://faculdadecdl.edu.br/wp-content/uploads/2022/11/logo.png)](https://faculdadecdl.edu.br/)
 
 Além disso curso Web Design.
 
