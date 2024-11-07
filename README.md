@@ -12,16 +12,24 @@ Grau Profissionalizante ⬇️
 
 [![GrauP](https://www.graup.com.br/favicon.png)](https://www.graup.com.br/)
 
-Dentre outros Cursos que faço pela WEB
+Dentre outros Cursos que já fiz ou estou fazendo
 
 #
 | Udemy |
 |-------|
-|Desenvolvimento Web|
+|Desenvolvimento Web| - Cursando
 
 | Banco de dados - MySQL |
 |-----|
-| Curso extensivo - CDL |
+| Curso extensivo - CDL | - Concluído
+
+|Dio.me|
+|-----|
+|Lógica de programação JS| - Concluído
+
+|Curso com Alex Girão|
+|-----|
+|Curso Java| - Cursando
 
 ## Linguagens de Marcação e Estilo
 
