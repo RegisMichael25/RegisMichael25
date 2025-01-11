@@ -39,6 +39,7 @@ Dentre outros Cursos que já fiz ou estou fazendo
 
 ## Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
 
 ## Sistema Operacional
 
