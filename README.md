@@ -18,6 +18,7 @@ Dentre outros Cursos que já fiz ou estou fazendo
 | Udemy |
 |-------|
 |Desenvolvimento Web| - Cursando
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 | Banco de dados - MySQL |
 |-----|
@@ -39,7 +40,10 @@ Dentre outros Cursos que já fiz ou estou fazendo
 
 ## Linguagens de Programação
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Banco de Dados
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Sistema Operacional
 
