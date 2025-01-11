@@ -17,8 +17,7 @@ Dentre outros Cursos que já fiz ou estou fazendo
 #
 | Udemy |
 |-------|
-|Desenvolvimento Web| - Cursando
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+|Desenvolvimento Web| - Cursando ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 | Banco de dados - MySQL |
 |-----|
