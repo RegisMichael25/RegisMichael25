@@ -63,8 +63,8 @@ Dentre outros Cursos que já fiz ou estou fazendo
 
 ## Repositórios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RegisMichael25&repo=Hello-World&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RegisMichael25/Hello-World)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RegisMichael25&repo=HTMLCSS&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RegisMichael25/HTMLCSS)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RegisMichael25&repo=Hello-World&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RegisMichael25/Curso_Java)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RegisMichael25&repo=HTMLCSS&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/RegisMichael25/Projeto-PIX)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RegisMichael25&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
