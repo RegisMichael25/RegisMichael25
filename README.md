@@ -40,7 +40,7 @@ Olá! Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia e
 ### Todo List API
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RegisMichael25/todo-list/main/preview.png" width="600px" alt="Todo List Preview">
+  <img src="https://raw.githubusercontent.com/RegisMichael25/todo-list/src/main/preview.png" width="600px" alt="Todo List Preview">
 </div>
 
 Uma API REST para gerenciamento de tarefas desenvolvida com Spring Boot. Implementa operações CRUD para administrar uma lista de tarefas, utilizando Java e práticas modernas de desenvolvimento web.
