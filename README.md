@@ -52,7 +52,7 @@ Uma API REST para gerenciamento de tarefas desenvolvida com Spring Boot. Impleme
 ### Sistema PIX
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RegisMichael25/sistema-pix/main/preview.png" width="600px" alt="Sistema PIX Preview">
+  <img src="https://github.com/RegisMichael25/todo_list_api/tree/main/src/preview.png" width="600px" alt="Sistema PIX Preview">
 </div>
 
 Sistema de simulação de transferências PIX implementado em JavaScript, utilizando conceitos de programação orientada a objetos. Permite criar contas bancárias e realizar transferências entre elas com diferentes modalidades.
