@@ -47,7 +47,7 @@ Uma API REST para gerenciamento de tarefas desenvolvida com Spring Boot. Impleme
 
 **Tecnologias:** Java, Spring Boot, REST API
 
-**[Ver Repositório](https://github.com/RegisMichael25/todo-list)**
+**[Ver Repositório](https://github.com/RegisMichael25/todo_list_api)**
 
 ### Sistema PIX
 
