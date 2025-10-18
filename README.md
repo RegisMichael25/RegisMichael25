@@ -32,7 +32,7 @@ Olá! Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia e
 ## 🛠️ Cursos e Especializações
 
 - **Lógica de Programação em JavaScript** - Digital Innovation One (DIO)
-- **Desenvolvimento Java** - Instrutor: Alex Girão (Em andamento)
+- **Engenheiro de Software** - Instrutor: Alex Girão (Em andamento)
 - **MySQL** - Faculdade CDL
 
 ## 💻 Projetos Destacados
