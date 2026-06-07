@@ -37,17 +37,17 @@ Olá! Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia e
 
 ## 💻 Projetos Destacados
 
-### Todo List API
+### Home Page IndexZero
 
 <div align="center">
-  <img src="https://github.com/RegisMichael25/todo_list_api/blob/main/src/preview/preview.png" width="600px" alt="Todo List Preview">
+  <img src="https://github.com/RegisMichael25/indexzero/blob/main/preview.png" width="600px" alt="Site IndexZero Preview">
 </div>
 
-Uma API REST para gerenciamento de tarefas desenvolvida com Spring Boot. Implementa operações CRUD para administrar uma lista de tarefas, utilizando Java e práticas modernas de desenvolvimento web.
+Um site desenvolvido para minha empresa chamada de IndexZero, focada em desenvolvimento de sites e soluções tecnologicas para o dia a dia de outras empresas.
 
-**Tecnologias:** Java, Spring Boot, REST API
+**Tecnologias:** React, Vite, Tailwind
 
-**[Ver Repositório](https://github.com/RegisMichael25/todo_list_api)**
+**[Ver Repositório](https://github.com/RegisMichael25/indexzero)**
 
 ### Sistema PIX
 
