@@ -4,10 +4,6 @@
 
 Olá! Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia e sempre em busca de novos conhecimentos. Atualmente estou cursando Análise e Desenvolvimento de Sistemas, focando em expandir minhas habilidades tanto em Front-end quanto em Back-end.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RegisMichael25&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisMichael25&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180em" />
-</div>
 
 ## 🚀 Tecnologias & Ferramentas
 
@@ -27,12 +23,12 @@ Olá! Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia e
 
 ## 📚 Formação Acadêmica
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** - Em andamento (2º Semestre)
+- 🎓 **Análise e Desenvolvimento de Sistemas** - Em andamento (4º Semestre)
 
 ## 🛠️ Cursos e Especializações
 
 - **Lógica de Programação em JavaScript** - Digital Innovation One (DIO)
-- **Engenheiro de Software** - Instrutor: Alex Girão (Em andamento)
+- **Engenheiro de Software** - Instrutor: Alex Girão
 - **MySQL** - Faculdade CDL
 
 ## 💻 Projetos Destacados
@@ -49,17 +45,17 @@ Um site desenvolvido para minha empresa chamada de IndexZero, focada em desenvol
 
 **[Ver Repositório](https://github.com/RegisMichael25/indexzero)**
 
-### Sistema PIX
+### Sistema para Gerenciamento de Obras
 
 <div align="center">
-  <img src="https://github.com/RegisMichael25/todo_list_api/tree/main/src/preview.png" width="600px" alt="Sistema PIX Preview">
+  <img src="https://github.com/RegisMichael25/front-obra/blob/develop/preview-obra.png" width="600px" alt="Sistema Gerenciamento de Obra">
 </div>
 
-Sistema de simulação de transferências PIX implementado em JavaScript, utilizando conceitos de programação orientada a objetos. Permite criar contas bancárias e realizar transferências entre elas com diferentes modalidades.
+Sistema de gerenciamento de obra criado com a ideia de facilitar na correria de estoques de uma obra com a inovação da utilização de reconhecimento de voz que auxilia nesse gerenciamento.
 
-**Tecnologias:** JavaScript, POO, ES6+
+**Tecnologias:** Spring boot, Python + whisper, React + vite e docker + postgres
 
-**[Ver Repositório](https://github.com/RegisMichael25/sistema-pix)**
+**[Ver Repositório Front-end](https://github.com/RegisMichael25/front-obra)**
 
 ## 📊 Estatísticas de Codificação
 
