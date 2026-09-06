@@ -57,12 +57,6 @@ Sistema de gerenciamento de obra criado com a ideia de facilitar na correria de 
 
 **[Ver Repositório Front-end](https://github.com/RegisMichael25/front-obra)**
 
-## 📊 Estatísticas de Codificação
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RegisMichael25&theme=radical" alt="GitHub Streak Stats" />
-</div>
-
 ## 🌱 Atualmente Estudando
 
 - Aprofundando conhecimento em Java e ecossistema Spring
