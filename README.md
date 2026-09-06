@@ -45,7 +45,7 @@ Um site desenvolvido para minha empresa chamada de IndexZero, focada em desenvol
 
 **[Ver Repositório](https://github.com/RegisMichael25/indexzero)**
 
-### Sistema para Gerenciamento de Obras
+### Sistema para Gerenciamento de Obras com Reconhecimento de Voz
 
 <div align="center">
   <img src="https://github.com/RegisMichael25/front-obra/blob/develop/preview-obra.png" width="600px" alt="Sistema Gerenciamento de Obra com Reconhecimento de voz">
