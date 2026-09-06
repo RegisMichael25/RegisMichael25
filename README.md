@@ -48,7 +48,7 @@ Um site desenvolvido para minha empresa chamada de IndexZero, focada em desenvol
 ### Sistema para Gerenciamento de Obras
 
 <div align="center">
-  <img src="https://github.com/RegisMichael25/front-obra/blob/develop/preview-obra.png" width="600px" alt="Sistema Gerenciamento de Obra">
+  <img src="https://github.com/RegisMichael25/front-obra/blob/develop/preview-obra.png" width="600px" alt="Sistema Gerenciamento de Obra com Reconhecimento de voz">
 </div>
 
 Sistema de gerenciamento de obra criado com a ideia de facilitar na correria de estoques de uma obra com a inovação da utilização de reconhecimento de voz que auxilia nesse gerenciamento.
