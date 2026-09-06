@@ -23,7 +23,7 @@ Olá! Sou um desenvolvedor Full Stack em formação, apaixonado por tecnologia e
 
 ## 📚 Formação Acadêmica
 
-- 🎓 **Análise e Desenvolvimento de Sistemas** - Em andamento (4º Semestre)
+- 🎓 **Análise e Desenvolvimento de Sistemas** - Em andamento (5º Semestre)
 
 ## 🛠️ Cursos e Especializações
 
